@@ -1,0 +1,6 @@
+@MentorLink_HostAddress = http://localhost:5038
+
+GET {{MentorLink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
